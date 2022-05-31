@@ -1,0 +1,1 @@
+[![codecov](https://codecov.io/gh/AntiHero/test/branch/main/graph/badge.svg?token=RL7A1469D4)](https://codecov.io/gh/AntiHero/test)
